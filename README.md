@@ -14,7 +14,7 @@ El proyecto contiene una serie de tutoriales en español para aprender a utiliza
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Add environment initialization tutorial
+- [x] Add environment initialization tutorial
 - [x] Finish ChatWithRag content (Explanations) 
 - [ ] Add License
 - [ ] Finish the README
