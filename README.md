@@ -1,6 +1,13 @@
 # Tutos Langchain Bedrock 
 
-El proyecto contiene una serie de tutoriales en español para aprender a utilizar AWS Bedrock y Langchain 
+El proyecto contiene una serie de tutoriales en español para aprender a utilizar AWS Bedrock, Langchain y Vector Stores
+
+## Introducción 
+
+Para trabajar sobre Google Colaboratory debemos iniciar con el Notebook EnvironmentConfiguration para: 
+
+    1. Configurar el acceso a AWS por medio del AWS-CLI  
+    2. Activar 
 
 ### Construido con
 
@@ -8,16 +15,13 @@ El proyecto contiene una serie de tutoriales en español para aprender a utiliza
 * [Jupyter Lab](https://jupyter.org)
 * [LangChain](https://python.langchain.com)
 * [Bedrock](https://aws.amazon.com/es/bedrock)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* [FAISS](https://github.com/facebookresearch/faiss)
 
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Add environment initialization tutorial
-- [x] Finish ChatWithRag content (Explanations) 
+- [x] Finish ChatWithContext content (Explanations)
+- [ ] Create tutorial ChatVectorStore
 - [ ] Add License
 - [ ] Finish the README
-
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
