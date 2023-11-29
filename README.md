@@ -22,6 +22,7 @@ Para trabajar sobre Google Colaboratory debemos iniciar con el Notebook Environm
 
 - [x] Add environment initialization tutorial
 - [x] Finish ChatWithContext content (Explanations)
-- [ ] Create tutorial ChatVectorStore
+- [x] Create tutorial ChatVectorStore
+- [ ] Store conversations in Vector Store
 - [ ] Add License
 - [ ] Finish the README
